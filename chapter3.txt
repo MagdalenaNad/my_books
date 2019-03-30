@@ -1,2 +1,2 @@
-Rodział 3 
-zmiana w rozdziale 3 
+﻿Rodział 3 
+zmiana - w próba wywołania konfliktu! 
