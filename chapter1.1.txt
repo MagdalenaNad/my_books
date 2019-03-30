@@ -1,1 +1,2 @@
 Podrozdział 1.1 
+wysyłam wiadomość z lokalnego repozytorium do GitHub
